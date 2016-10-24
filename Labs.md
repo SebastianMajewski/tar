@@ -121,6 +121,7 @@ Legenda:
 1. [Tejszerska Aleksandra](https://github.com/atejszerska)
 1. [Wiśniewski Jakub](https://github.com/jawisniewski)
 1. [Zdybel Patryk](https://github.com/DyuQ) 24.11
+1. [Majewski Sebastian](https://github.com/SebastianMajewski)
 
 
 ### Grupa 2
@@ -148,7 +149,4 @@ Legenda:
 
 
 ### Jaka grupa?
-
-
-1. Majewski Sebastian
 1. Mikucka Julianna
