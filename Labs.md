@@ -110,6 +110,7 @@ Legenda:
 1. [Luszuk Paweł](https://github.com/luszukpawel)
 1. [Łąkowski Jakub](https://github.com/kubalakowski)
 1. [Łojkowski Wojciech](https://github.com/wlojkowski/Singly_linked_list_Ruby)
+1. [Majewski Sebastian](1. Majewski Sebastian 24.10) 24.10
 1. [Makiewicz Adam](https://github.com/adammak2342/Ruby)
 1. [Mikucka Julianna](https://github.com/LadyJuleczka/Ruby) 24.10
 1. [Narożnik Kacper](https://github.com/knaroznik/Ruby_01Trees)
@@ -149,7 +150,7 @@ Legenda:
 
 ### Jaka grupa?
 
-1. Majewski Sebastian 24.10
+
 1. Mazur Ewelina 24.10, 7.11
 1. [Byszof Michał](https://github.com/mbyszof/Ruby_2016-2017) 24.10, 7.11
 1. Radomski Artur 24.10, 7.11
