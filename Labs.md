@@ -112,6 +112,7 @@ Legenda:
 
 1. [Wojciech Łojkowski i Kacper Narożnik](https://github.com/knaroznik/Ruby_GameOfLife)
 2. [Jakub Łąkowski](https://github.com/kubalakowski/projekt_ruby)
+3. [Sebastian Majewski](https://github.com/SebastianMajewski/RubyCards)
 
 
 ### Grupa 2
